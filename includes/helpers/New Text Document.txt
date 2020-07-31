@@ -1,0 +1,14 @@
+<?php
+
+$input = json_decode(file_get_contents('php://input'),TRUE);
+
+//sanitize inputs;
+function htmlescape($value){
+    $value = htmlspecialchars($value);
+    return $value;
+}
+
+$input = array_map('htmlescape', $input);
+$GLOBALS["ApiInput"] = $input;
+
+?>

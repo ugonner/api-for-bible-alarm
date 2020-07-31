@@ -1,0 +1,48 @@
+[08-Jan-2018 08:45:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agmallco/public_html/api/includes/helpers/cors.php on line 14
+[08-Jan-2018 08:48:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agmallco/public_html/api/includes/helpers/cors.php on line 14
+[08-Jan-2018 09:27:01 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 09:52:14 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 15:10:51 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 18:57:34 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 20:45:55 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:45:43 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:45:43 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:45:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:46:06 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:46:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:46:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:49:54 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:49:54 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:49:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:51:57 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:51:57 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:51:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:52:13 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:52:13 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[09-Jan-2018 09:52:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:29:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:29:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:29:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'standard10.smartwebng.com' (using password: NO)' in /home/agmallco/public_html/api/includes/db/connect2.php:7
+Stack trace:
+#0 /home/agmallco/public_html/api/includes/db/connect2.php(7): PDO->__construct('mysql:host=agma...', 'root')
+#1 /home/agmallco/public_html/api/prayergroup/prayergroup.class.php(8): Dbconn->__construct()
+#2 /home/agmallco/public_html/api/prayergroup/index.php(32): group->__construct()
+#3 {main}
+  thrown in /home/agmallco/public_html/api/includes/db/connect2.php on line 7
+[10-Jan-2018 19:29:19 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:29:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:33:12 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:33:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:33:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'standard10.smartwebng.com' (using password: NO)' in /home/agmallco/public_html/api/includes/db/connect2.php:7
+Stack trace:
+#0 /home/agmallco/public_html/api/includes/db/connect2.php(7): PDO->__construct('mysql:host=agma...', 'root')
+#1 /home/agmallco/public_html/api/prayergroup/prayergroup.class.php(8): Dbconn->__construct()
+#2 /home/agmallco/public_html/api/prayergroup/index.php(16): group->__construct()
+#3 {main}
+  thrown in /home/agmallco/public_html/api/includes/db/connect2.php on line 7
+[10-Jan-2018 19:49:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:49:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:59:59 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 19:59:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 20:14:13 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5
+[10-Jan-2018 20:14:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/prayergroup/index.php on line 5

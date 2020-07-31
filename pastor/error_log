@@ -1,0 +1,47 @@
+[08-Jan-2018 07:47:39 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 8
+[08-Jan-2018 07:52:41 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 8
+[08-Jan-2018 07:55:33 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 8
+[08-Jan-2018 07:57:11 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 8
+[08-Jan-2018 08:03:41 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 8
+[08-Jan-2018 09:28:51 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 09:45:40 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 09:51:26 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 09:51:48 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 18:54:55 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 18:58:14 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 18:58:39 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 19:18:09 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[08-Jan-2018 19:29:33 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:36:36 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:36:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:38:19 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:38:19 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:38:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:42:35 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:42:35 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:42:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:44:15 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:44:15 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:44:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[09-Jan-2018 09:54:15 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/agmallco/public_html/api/includes/helpers/inputsanitizer.php on line 12
+[09-Jan-2018 09:54:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:30:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:30:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:30:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'standard10.smartwebng.com' (using password: NO)' in /home/agmallco/public_html/api/includes/db/connect2.php:7
+Stack trace:
+#0 /home/agmallco/public_html/api/includes/db/connect2.php(7): PDO->__construct('mysql:host=agma...', 'root')
+#1 /home/agmallco/public_html/api/pastor/pastor.class.php(7): Dbconn->__construct()
+#2 /home/agmallco/public_html/api/pastor/index.php(32): Pastor->__construct()
+#3 {main}
+  thrown in /home/agmallco/public_html/api/includes/db/connect2.php on line 7
+[10-Jan-2018 19:52:28 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:52:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:43) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:59:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 19:59:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:08:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:08:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:08:51 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:08:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:14:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:14:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/agmallco/public_html/api/includes/helpers/cors.php:39) in /home/agmallco/public_html/api/pastor/index.php on line 5
+[10-Jan-2018 20:32:48 UTC] PHP Fatal error:  Call to undefined function start() in /home/agmallco/public_html/api/includes/helpers/cors.php on line 31
